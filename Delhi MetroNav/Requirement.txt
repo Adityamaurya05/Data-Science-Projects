@@ -1,0 +1,10 @@
+Libraries used from the code, the following libraries are imported and required:
+
+streamlit: For the web app interface.
+pandas: For handling the CSV data.
+folium: For creating interactive maps.
+streamlit_folium: For integrating Folium maps with Streamlit.
+geopy: For geodesic distance calculations (though minimally used in the current code).
+plotly: For the pie chart in the dashboard.
+os: Standard Python library (no need to list in requirements.txt).
+collections: Standard Python library (no need to list).
