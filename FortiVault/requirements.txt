@@ -1,0 +1,8 @@
+streamlit
+psycopg2-binary
+cryptography
+python-dotenv
+twilio==8.0.0
+zxcvbn==4.4.28
+requests==2.28.1
+python-dotenv
