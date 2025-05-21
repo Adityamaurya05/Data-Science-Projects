@@ -37,7 +37,7 @@ Prerequisites
 1. Clone the repository:
 
 ```
-git clone https://github.com/Adityamaurya05/PriceMyHouse-prediction-system.git
+git clone https://github.com/Adityamaurya05/PriceMyHouse-prediction-system.git](https://github.com/Adityamaurya05/Data-Science-Projects/tree/main/PriceMyHouse%20-%20Prediction%20system
 cd PriceMyHouse-prediction-system
 ```
 2. Set up virtual environment (recommended):
